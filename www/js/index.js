@@ -72,6 +72,7 @@ var app = {
 
       
 
+            
 
         var parentElement = document.getElementById(id);
         var listeningElement = parentElement.querySelector('.listening');
