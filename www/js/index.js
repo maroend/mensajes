@@ -52,7 +52,7 @@ var app = {
 
           push.on('registration', function (data) {
            
-           alert(data.registrationId);
+            alert(data.registrationId);
             console.log(data.registrationId);
             console.log(data.registrationType);
         
