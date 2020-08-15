@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249250866277",
+    "firebase_url": "https://mensajes-6a18a.firebaseio.com",
+    "project_id": "mensajes-6a18a",
+    "storage_bucket": "mensajes-6a18a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249250866277:android:84191d3a8e2bb8f3add28c",
+        "android_client_info": {
+          "package_name": "com.mensajes.charly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249250866277-c9t91j8hsvq5o4k8ooil1bkrg6sttlq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKNOTBFjzE-qcGBGaYruobJwsMS5Y0dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249250866277-c9t91j8hsvq5o4k8ooil1bkrg6sttlq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

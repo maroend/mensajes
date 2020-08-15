@@ -10,7 +10,8 @@
     "cordova-plugin-inappbrowser": "^1.7.2",
     "cordova-plugin-media-capture": "^1.4.3",
     "cordova-plugin-network-information": "^1.3.4",
-    "cordova-plugin-vibration": "^2.1.6"
+    "cordova-plugin-vibration": "^2.1.6",
+    "cordova-plugin-push": "~2.0.0"
   },
   "cordova": {
     "plugins": {
@@ -26,10 +27,12 @@
       "cordova-plugin-network-information": {},
       "cordova-plugin-vibration": {},
       "cordova-plugin-whitelist": {},
-      "phonegap-plugin-push": {}
+      "phonegap-plugin-push": {},
+      "cordova-plugin-push": {}
     },
     "platforms": [
-      "android"
+      "android",
+      "browser"
     ]
   },
   "dependencies": {
