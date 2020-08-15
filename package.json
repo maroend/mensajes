@@ -30,10 +30,7 @@
       "phonegap-plugin-push": {},
       "cordova-plugin-push": {}
     },
-    "platforms": [
-      "android",
-      "browser"
-    ]
+    "platforms": []
   },
   "dependencies": {
     "cordova-android": "^8.1.0",
